@@ -1,11 +1,11 @@
 using System;
-namespace Hi
+namespace GoodBye
 {
 class Program
 {
 public static void Main()
 {
-Console.WriteLine("Hi");
+Console.WriteLine("GoodBye");
 Console.Write("Нажмите конопку для продолжения");
 Console.ReadKey(true);
 }
