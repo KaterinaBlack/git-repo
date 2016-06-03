@@ -11,6 +11,7 @@ namespace CSharpProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!!!");
+            Console.WriteLine("How do you do, my dear friend?");
             Console.ReadKey();
         }
     }
